@@ -1,0 +1,4 @@
+{
+    "wsAddress": "http://x.x.x.x:8546",
+    "rpcAddress":"http://x.x.x.x:8545"
+}

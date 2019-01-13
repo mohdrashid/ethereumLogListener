@@ -1,0 +1,15 @@
+{
+  "name": "listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Rashid",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.4.3",
+    "web3": "^1.0.0-beta.37"
+  }
+}
